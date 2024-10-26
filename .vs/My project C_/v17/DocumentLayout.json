@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "D:\\Unity\\Unity Projects\\My project C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5770FD1F-3225-C28F-D6DF-804BBC7D94C9}|Assembly-CSharp.csproj|d:\\unity\\unity projects\\my project c#\\assets\\scripts\\25-\u679A\u4E3E\\enumscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5770FD1F-3225-C28F-D6DF-804BBC7D94C9}|Assembly-CSharp.csproj|d:\\unity\\unity projects\\my project c#\\assets\\scripts\\21-\u7C7B\\movementcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5770FD1F-3225-C28F-D6DF-804BBC7D94C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\21-\u7C7B\\movementcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5770FD1F-3225-C28F-D6DF-804BBC7D94C9}|Assembly-CSharp.csproj|D:\\Unity\\Unity Projects\\My project C#\\assets\\scripts\\21-\u7C7B\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5770FD1F-3225-C28F-D6DF-804BBC7D94C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\21-\u7C7B\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5770FD1F-3225-C28F-D6DF-804BBC7D94C9}|Assembly-CSharp.csproj|D:\\Unity\\Unity Projects\\My project C#\\assets\\scripts\\21-\u7C7B\\singlecharacterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5770FD1F-3225-C28F-D6DF-804BBC7D94C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\21-\u7C7B\\singlecharacterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5770FD1F-3225-C28F-D6DF-804BBC7D94C9}|Assembly-CSharp.csproj|D:\\Unity\\Unity Projects\\My project C#\\assets\\scripts\\25-\u679A\u4E3E\\enumscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5770FD1F-3225-C28F-D6DF-804BBC7D94C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\25-\u679A\u4E3E\\enumscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5770FD1F-3225-C28F-D6DF-804BBC7D94C9}|Assembly-CSharp.csproj|d:\\unity\\unity projects\\my project c#\\assets\\scripts\\22-instantiate\\usinginstantiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5770FD1F-3225-C28F-D6DF-804BBC7D94C9}|Assembly-CSharp.csproj|D:\\Unity\\Unity Projects\\My project C#\\assets\\scripts\\22-instantiate\\usinginstantiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5770FD1F-3225-C28F-D6DF-804BBC7D94C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\22-instantiate\\usinginstantiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "InvokeScript.cs",
               "DocumentMoniker": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\24-Invoke\\InvokeScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\24-Invoke\\InvokeScript.cs",
@@ -56,19 +68,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MovementControls.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\21-\u7C7B\\MovementControls.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\21-\u7C7B\\MovementControls.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\21-\u7C7B\\MovementControls.cs",
+              "RelativeToolTip": "Assets\\Scripts\\21-\u7C7B\\MovementControls.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:55:09.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\21-\u7C7B\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\21-\u7C7B\\Inventory.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\21-\u7C7B\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\21-\u7C7B\\Inventory.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:48:42.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EnumScript.cs",
               "DocumentMoniker": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\25-\u679A\u4E3E\\EnumScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\25-\u679A\u4E3E\\EnumScript.cs",
               "ToolTip": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\25-\u679A\u4E3E\\EnumScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\25-\u679A\u4E3E\\EnumScript.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADwvxcAAABAAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T03:53:30.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T05:11:05.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "singlecharacterscript.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\21-\u7C7B\\singlecharacterscript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\21-\u7C7B\\singlecharacterscript.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\21-\u7C7B\\singlecharacterscript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\21-\u7C7B\\singlecharacterscript.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:00:05.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RocketDestruction.cs",
               "DocumentMoniker": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\22-Instantiate\\RocketDestruction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\22-Instantiate\\RocketDestruction.cs",
@@ -80,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UsingInstantiate.cs",
               "DocumentMoniker": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\22-Instantiate\\UsingInstantiate.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\22-Instantiate\\UsingInstantiate.cs",
@@ -88,12 +136,11 @@
               "RelativeToolTip": "Assets\\Scripts\\22-Instantiate\\UsingInstantiate.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T07:52:52.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T07:52:52.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Arrays.cs",
               "DocumentMoniker": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\23-\u6570\u7EC4\\Arrays.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\23-\u6570\u7EC4\\Arrays.cs",
@@ -105,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "InvokeRepeating.cs",
               "DocumentMoniker": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\24-Invoke\\InvokeRepeating.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\24-Invoke\\InvokeRepeating.cs",
@@ -117,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UsingDeltaTime.cs",
               "DocumentMoniker": "D:\\Unity\\Unity Projects\\My project C#\\Assets\\Scripts\\20-DeltaTime\\UsingDeltaTime.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\20-DeltaTime\\UsingDeltaTime.cs",

@@ -64,6 +64,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\Scripts\11-激活游戏对象\ActiveObjects.cs" />
+    <Compile Include="Assets\Scripts\25-枚举\EnumScript.cs" />
     <Compile Include="Assets\Scripts\4-选择\ConversationScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
     <Compile Include="Assets\Scripts\19-GetComponent\YetAnotherScript.cs" />
@@ -127,7 +128,10 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\Scripts\20-DeltaTime\UsingDeltaTime.cs" />
-    <Compile Include="Assets\Scripts\25-枚举\EnumScript.cs" />
+    <Compile Include="Assets\Scripts\21-类\singlecharacterscript.cs" />
+    <Compile Include="Assets\Scripts\21-类\Inventory.cs" />
+    <Compile Include="Assets\Scripts\21-类\MovementControls.cs" />
+    <Compile Include="Assets\Scripts\21-类\Shooting.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
